@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #00698f;
+}
+
+p {
+    background-color: #ccc;
+    padding: 20px;
+    border: 1px solid #666;
+}
+
+div {
+    background-image: linear-gradient(to bottom, #ff69b4, #ffff00);
+    height: 200px;
+    width: 200px;
+}

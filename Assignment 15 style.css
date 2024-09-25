@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+    height: 500px;
+    border: 1px solid black;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: #f0f0f0;
+    transform: translate(50px, 50px) rotate(45deg) scale(1.5) skew(10deg, 20deg);
+    
+  }
+  

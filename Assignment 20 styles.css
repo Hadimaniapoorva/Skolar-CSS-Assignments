@@ -1,0 +1,125 @@
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+.col-2 {
+    width: 16.67%;
+}
+.col-3 {
+    width: 25%;
+}
+.col-4 {
+    width: 33.33%;
+}
+.col-5 {
+    width: 41.67%;
+}
+.col-6 {
+    width: 50%;
+}
+.col-7 {
+    width: 58.33%;
+}
+.col-8 {
+    width: 66.67%;
+}
+.col-9 {
+    width: 75%;
+}
+.col-10 {
+    width: 83.33%;
+}
+.col-11 {
+    width: 91.67%;
+}
+.col-12 {
+    width: 100%;
+}
+.btn-primary {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-secondary {
+    background-color: #666;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-danger {
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Cards */
+.card {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-primary {
+    background-color: #337ab7;
+    color: #fff;
+}
+
+.card-secondary {
+    background-color: #666;
+    color: #fff;
+}
+
+/* Forms */
+.form-control {
+    width: 100%;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.bg-primary {
+    background-color: #337ab7;
+}
+
+.p-1 {
+    padding: 1rem;
+}
+
+.m-1 {
+    margin: 1rem;
+}
+
+.px-1 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+/* class selector */
+.highlight {
+    background-color: yellow;
+}
+
+/* id selector */
+#header {
+    text-align: center;
+}
+
+/* attribute selector */
+a[href="https://www.example.com"] {
+    color: green;
+}
+
+/* pseudo-class selector */
+p.hover:hover {
+    text-decoration: underline;
+}
+
+
+
+p.first_line::first-line {
+    color: brown;
+}
